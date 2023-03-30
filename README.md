@@ -6,7 +6,8 @@ My goal is to learn and absorb as much information about web development as poss
 and then use this knowledge to build beautiful and well-functioning websites for the world to enjoy.
 
 I am currently looking for LIA (internship) for the period: 30 October 2023 - 11 April 2024
-So if you are interested send me a DM on linkedIn and we'll talk :)
+
+If you want to connect with me send me a DM on linkedIn and we'll talk :)
 
 - 🌱 I’m currently learning MongoDB
 - 🔭 I’m currently working on a couple of side projects
