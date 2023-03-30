@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello and Welcome 👋
 
-### My name is Mattias and I am studying to become a fullstack developer! 😃
+### My name is Mattias and I am studying to become a fullstack developer 👩‍💻
 
 My goal is to learn and absorb as much information about web development as possible, 
-and then use this knowledge to build beautiful and well-functioning websites for the world to enjoy.
+and then use this knowledge to build beautiful and well-functioning websites for the world to enjoy ❤️
 
 ### 🛠 Skills
 
