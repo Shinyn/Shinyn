@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 ### My name is Mattias and I am studying to become a fullstack developer! 😃
 
