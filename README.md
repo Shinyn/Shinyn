@@ -7,13 +7,13 @@ and then use this knowledge to build beautiful and well-functioning websites for
 
 ## 🛠 Skills
 
-# - HTML5
-# - CSS3
-# - Sass / Scss
-# - Javascript
-# - Node.js
-# - MySQL
-# - React
+- HTML5
+- CSS3
+- Sass / Scss
+- Javascript
+- Node.js
+- MySQL
+- React
 
 I am currently looking for LIA (internship) for the period: 30 October 2023 - 11 April 2024
 
