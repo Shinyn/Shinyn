@@ -14,13 +14,14 @@ and then use this knowledge to build beautiful and well-functioning websites for
 - Node.js
 - MySQL
 - React
+- MongoDB
 
 I am currently looking for LIA (internship) for the period: 30 October 2023 - 11 April 2024
 
 If you want to connect with me send me a DM on linkedIn and we'll talk :)
 
 - 🌱 I’m currently learning MongoDB
-- 🔭 I’m currently working on a couple of side projects
+- 🔭 I’m currently working on my portfolio
 - 📫 How to reach me: https://www.linkedin.com/in/mattias-alm/
 
 <!--
